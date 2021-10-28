@@ -1,0 +1,24 @@
+$alturaHeader: 3rem;
+
+$colorPrincipal: #3c7894;
+$colorSecundario: #1D2063;
+$colorTerciario: #242980;
+$colorTexto: white;
+
+$textoFuente: 'Palanquin';
+$tamanioH1: 2rem;
+$tamanioH3: 1rem;
+$tamanioChico: 0.8125rem;
+$gridTela: 1rem;
+
+@media screen and (min-width: 768px){
+        $tamanioH1: 3.5rem;
+        $tamanioH3: 1.25rem;
+        $tamanioChico: 0.8125rem;
+}
+
+$index-back: -10;
+$index-normal: 1;
+$index-tooltip: 10;
+$index-fixed: 100;
+$index-modal: 1000;
